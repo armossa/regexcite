@@ -18,6 +18,6 @@ A character vector
 Split a string
 }
 \examples{
-x <- "alph,beta,charlie,delta"
+x <- "alpha,beta,charlie,delta"
 strsplit1(x, ",")
 }
